@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(268, 75%, 9%);
+}
+.themesde span{
+    color: hsl(52, 100%, 62%);
+}
+.themebtn{
+    background-color: hsl(268, 71%, 12%);
+}
+.btn3{
+    background-color: hsl(176, 100%, 44%);
+}
+.output{
+    color: hsl(52, 100%, 62%);
+    background-color: hsl(268, 71%, 12%);
+}
+.controls{
+    background-color: hsl(268, 71%, 12%);
+}
+.button{
+    color: hsl(52, 100%, 62%);
+    background-color: hsl(268, 47%, 21%);
+    border-bottom-color: hsl(290, 70%, 36%);
+}
+.del, .reset{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(281, 89%, 26%);
+    border-bottom-color: hsl(285, 91%, 52%);
+}
+.equals{
+    color: hsl(198, 20%, 13%);
+    background-color: hsl(176, 100%, 44%);
+    border-bottom-color: hsl(177, 92%, 70%);
+}
